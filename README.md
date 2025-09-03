@@ -31,32 +31,6 @@ Notification System
 **Database:** Mongo DB
 
 
-
-
-## Screenshots
-
-![Sign in](https://i.postimg.cc/QCzg7c2B/Sign-In.png)
-
-![Dashboard](https://i.postimg.cc/1zPJKcj2/Dashboard.png)
-
-![Users](https://i.postimg.cc/fRwJMVtm/Users.png)
-
-![Doctors](https://i.postimg.cc/Gpndx2G9/Doctors.png)
-
-![Profile](https://i.postimg.cc/XqzCDFkw/Profile.png)
-
-![Doctor signup](https://i.postimg.cc/0j1cQTw6/Doctor-Sign-Up.png)
-
-![Booking](https://i.postimg.cc/xCCjFYMw/Book-Appointments.png)
-
-![Appointments](https://i.postimg.cc/59GfPnMX/Doctor-Appointments.png)
-
-![Admin Notifications](https://i.postimg.cc/5ycbt2gw/Admin-Notifications.png)
-
-![Doctor Notification](https://i.postimg.cc/0yhtFKyd/Doctor-Notification.png)
-
-![User Notification](https://i.postimg.cc/zB8kYCZW/User-Notification.png)
-
 ## Environment Variables
 
 To run this project, you will need to add the following environment variables to your .env file
@@ -65,14 +39,14 @@ To run this project, you will need to add the following environment variables to
 
 ```bash
  NODE_ENV:  development
- PORT:      5000
+ PORT:      4000
  DATABASE:  Insert your MongoDB database connection link
 ```
 
 ### Frontend ###
 
 ```bash
- REACT_APP_API_URL:  'http://127.0.0.1:5000/api/v1/'
+ REACT_APP_API_URL:  'http://127.0.0.1:3000/api/v1/'
 ```
 
 
