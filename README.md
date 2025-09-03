@@ -35,8 +35,6 @@ Notification System
 
 ## Screenshots
 
-![signup](https://i.postimg.cc/bwHV2Bw4/Sign-Up.png)
-
 ![Sign in](https://i.postimg.cc/QCzg7c2B/Sign-In.png)
 
 ![Dashboard](https://i.postimg.cc/1zPJKcj2/Dashboard.png)
@@ -175,6 +173,6 @@ To run this project, you will need to add the following environment variables to
 
 ---
 
-Made with ❤️ by Muazam
+Made with ❤️ by Narender
 
 </div>
